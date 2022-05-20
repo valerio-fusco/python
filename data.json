@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Mario",
+        "surname": "Rossi",
+        "age": 40,
+        "number": "0123456",
+        "language": [
+            "it",
+            "en"
+        ]
+    },
+    {
+        "name": "Gennaro",
+        "surname": "Bianchi",
+        "age": 37,
+        "number": "7891011",
+        "language": [
+            "it",
+            "en",
+            "es"
+        ],
+        "birthday": [
+            1,
+            8,
+            1985
+        ]
+    },
+    {
+        "name": "Franco",
+        "surname": "Verdi"
+    }
+]
